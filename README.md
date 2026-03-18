@@ -40,5 +40,3 @@ F = T - mg - D
 - height = height + velocity × dt  
 
 ---
-
-## 📂 Project Structure
